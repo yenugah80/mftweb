@@ -1,0 +1,7 @@
+{
+  "name": "NutriVoice AI",
+  "description": "A real-time voice-activated nutrition assistant powered by Gemini Live API. Speak to analyze food, get macro/micro nutrient breakdowns, and visualize ingredients instantly.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
